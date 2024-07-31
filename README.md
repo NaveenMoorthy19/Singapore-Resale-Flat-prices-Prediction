@@ -1,13 +1,13 @@
 # Singapore-Resale-Flat-prices-Prediction
 
 
-📘** Introduction**
+📘 **Introduction**
 
 This project focuses on predicting the resale prices of Singapore flats using HDB data, leveraging the power of machine learning. The data undergoes thorough preprocessing, including handling outliers and encoding categorical features. I experimented with various regression models and selected the best performer. The user-friendly Streamlit application allows users to input features and receive real-time predictions, making it easier to explore and understand the housing market. Deployed on Render, it ensures easy access and smooth performance, empowering users to make informed decisions about flat resale prices in Singapore.
 
-**Domain **: 🏘️ Real Estate
+**Domain** : 🏘️ Real Estate
 
-**Data Source**: https://beta.data.gov.sg/collections/189/view
+**Data Source** : https://beta.data.gov.sg/collections/189/view
 
 
 🛠 **Technology and Skills Takeaway** :
@@ -65,7 +65,7 @@ Render
 **Categorical Encoding** : Encoded categorical features using techniques like Label Encoding to convert them into numerical formats suitable for machine learning algorithms.
 
 
-🤖** Model Selection and Training** :
+🤖**Model Selection and Training** :
 
 Cross-validated different regression models (e.g., Linear Regression, Random Forest Regressor, etc.)
 
@@ -85,12 +85,12 @@ Deployed the application on Render for easy access and smooth performance.
 
 👨‍🏫 **Reference**
 
-Python Documentation "https://docs.python.org/3/"
+Python Documentation : "https://docs.python.org/3/"
 
-pandas Documentation "https://pandas.pydata.org/docs/"
+pandas Documentation : "https://pandas.pydata.org/docs/"
 
-scikit-learn Documentation "https://scikit-learn.org/0.21/index.html"
+scikit-learn Documentation : "https://scikit-learn.org/0.21/index.html"
 
-numpy Documentation "https://numpy.org/doc/"
+numpy Documentation : "https://numpy.org/doc/"
 
-Streamlit Documentation "https://docs.streamlit.io/"
+Streamlit Documentation : "https://docs.streamlit.io/"
